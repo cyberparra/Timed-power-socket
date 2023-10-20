@@ -1,6 +1,6 @@
 /*
  * Created by Adriano Parracciani
- timer for power socket 
+ Timed power socket 
  */
  
 int relayState=0;
