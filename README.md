@@ -1,14 +1,16 @@
 # Timed-power-socket
-A smart socket that when activated by a button would turn off after four minutes.
+A smart socket that power off after some minutes from starting via push button.
+I needed this smart socket to avoid leaving the American coffee machine always on.
+Generally the smart solutions on the market, work by setting start and stop date/time. Instead, I needed to activate it simply with a button.
 
 
 ![timed outlet](presatimer800px.jpg)
 
-I needed this smart socket to avoid leaving the American coffee machine on.
+
 
 ## Description
 
-The project is based on **Arudino** controller who manages timer and relay.
+The project is based on **Arduino** controller who manages timer and relay.
 
 The coffee machine connects to the timed outlet, which in turn connects to the home electrical outlet. So, it is the smart outlet that provides the power to the coffee maker through a push button.
 
